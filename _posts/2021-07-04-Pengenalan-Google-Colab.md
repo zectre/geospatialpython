@@ -9,3 +9,4 @@ Google Colaboratory atau yang biasa disebut Colab merupakan layanan komputasi aw
 
 Oke langsung saja kita coba akses melalui link https://colab.research.google.com
 ![Colab](img/colab.PNG)
+![colab](https://user-images.githubusercontent.com/43196730/124387101-6db4b100-dd07-11eb-8512-dcb17ffe0ef3.PNG)
